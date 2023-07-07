@@ -1,0 +1,17 @@
+The required sections are->
+ 1) Personal Details with photo
+ 2) Professional Summary
+ 3) Work experience
+ 4) Education
+ 5) Skills
+ 6) Projects
+ 7) Certificates
+ 8) Acheivements
+ 9) Languages
+ 10) Hobbies
+ 11) extra curicullar activities
+ 12) Websites & Social Links
+
+ display Section wise -> Each section in diff component
+
+ 
