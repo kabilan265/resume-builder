@@ -12,6 +12,6 @@ The required sections are->
  11) extra curicullar activities
  12) Websites & Social Links
 
- display Section wise -> Each section in diff component
+ display Section wise -> Each section in different component
 
  
